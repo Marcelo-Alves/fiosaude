@@ -13,3 +13,8 @@ include_once "./template/topo.php";
 <?php
 include_once "./template/rodape.php";
 ?>
+
+<!--
+ola para todo\\\\\\\\\\\\\\
+
+-->
